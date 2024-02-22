@@ -8,7 +8,7 @@ const Header = () => {
     },
     {
       name: "Wallet",
-      link: "/create.html",
+      link: "/create",
     },
     {
       name: "Espace Privé",
