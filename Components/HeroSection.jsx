@@ -13,20 +13,11 @@ const HeroSection = () => {
               <div class="col-xl-6 col-lg-6 col-md-6">
                 <div class="slide-all-text">
                   <div class="layer-2 wow fadeInUp" data-wow-delay="0.3s">
-                    <h1 class="title-2">
-                      The blockchain{" "}
-                      <span class="color-text-bold">technology </span>for a
-                      brighter tomorrow{" "}
+                    <h1>
+                      <span class="title-2">Votre wallet</span><br />
+                      <span class="color-text-bold">Alliance360</span><br />
+                      <span class="title-1">Une économie participative</span>
                     </h1>
-                  </div>
-
-                  <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
-                    <a href="contact.html" class="ready-btn coin-btn">
-                      Get Started
-                    </a>
-                    <a href="coin.html" class="ready-btn color-btn last-btn">
-                      White Paper
-                    </a>
                   </div>
                 </div>
               </div>

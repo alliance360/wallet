@@ -62,11 +62,14 @@
     width: 100%;
   }
 
-  .title-2 {
+  .title-1 {
     font-size: 2rem;
     line-height: 1;
   }
-
+  .title-2 {
+    font-size: 1.5rem;
+    line-height: 1;
+  }
   .login-form {
     margin: 0px 0px;
   }
